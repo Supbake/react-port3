@@ -1,3 +1,4 @@
+// where is this email getting sent to?  how do i put in my email info 
 import React, { useState } from 'react';
 
 import { validateEmail } from '../../utils/helpers';
